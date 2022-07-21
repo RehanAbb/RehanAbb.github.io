@@ -1,11 +1,10 @@
 /* global Element */
 
 /**
- *  The Destroyer BaapG
- *  https://instagram.com/krish_na_2568
+ * https://sck.io/u/GTkBd7W3
  *
  *  Author:
- *    Baapg Ghazipur Up
+ *    Rehan Fizza Up
  *    https://feross.org
  *
  *  Patreon:
@@ -69,16 +68,16 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'BaapG.mp4',
-  'BaapG1.mp4',
-  'BaapG2.mp4',
-  'BaapG3.mp4',
-  'BaapG4.mp4',
-  'BaapG.mp4',
-  'BaapG1.mp4',
-  'BaapG2.mp4',
-  'BaapG3.mp4',
-  'BaapG4.mp4'
+  'Rehan.mp4',
+  'Rehan1.mp4',
+  'Rehan2.mp4',
+  'Rehan3.mp4',
+  'Rehab4.mp4',
+  'Rehan.mp4',
+  'Rehan1.mp4',
+  'Rehan2.mp4',
+  'Rehan3.mp4',
+  'Rehan4.mp4'
 ]
 
 const FILE_DOWNLOADS = [
