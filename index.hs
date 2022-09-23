@@ -4,7 +4,7 @@
  * https://sck.io/u/GTkBd7W3
  *
  *  Author:
- *    Rehan Fizza Up
+ *    Rehan Noor Up
  *    https://feross.org
  *
  *  Patreon:
