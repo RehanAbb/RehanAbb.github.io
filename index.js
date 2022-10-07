@@ -69,8 +69,8 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'Rehan.mp4',
-  'Rehan1.mp4',
+  'BaapG.mp4',
+  'BaapG1.mp4',
   'BaapG2.mp4',
   'BaapG3.mp4',
   'BaapG4.mp4',
