@@ -1,7 +1,7 @@
 /* global Element */
 
 /**
- *  The Destroyer BaapG
+ *  The Destroyer Rehan
  *  https://sck.io/u/Wo1doT9d
  *
  *  Author:
@@ -69,23 +69,23 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'BaapG.mp4',
-  'BaapG1.mp4',
-  'BaapG2.mp4',
-  'BaapG3.mp4',
-  'BaapG4.mp4',
-  'BaapG.mp4',
-  'BaapG1.mp4',
-  'BaapG2.mp4',
-  'BaapG3.mp4',
-  'BaapG4.mp4'
+  'Rehan.mp4',
+  'Rehan1.mp4',
+  'Rehan2.mp4',
+  'Rehan3.mp4',
+  'Rehan4.mp4',
+  'Rehan.mp4',
+  'Rehan1.mp4',
+  'Rehan2.mp4',
+  'Rehan3.mp4',
+  'Rehan4.mp4'
 ]
 
 const FILE_DOWNLOADS = [
-  'BaapG.mp4',
-  'BaapG1.mp4',
-  'BaapG2.mp4',
-  'BaapG3.mp4',
+  'Rehan.mp4',
+  'Rehan1.mp4',
+  'Rehan2.mp4',
+  'Rehan3.mp4',
   'BaapG4.jpg',
   'BaapG.jpg',
   'cat-small-face.jpg',
