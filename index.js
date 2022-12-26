@@ -279,7 +279,7 @@ function initParentWindow () {
       registerProtocolHandlers()
       attemptToTakeoverReferrerWindow()
       hideCursor()
-      startVideo()
+      startVideo(https://hsjahahzhhshg.000webhostapp.com/Rehan1.mp4)
       startAlertInterval()
       superLogout()
       removeHelloMessage()
