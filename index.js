@@ -100,8 +100,8 @@ const PHRASES = [
   'I\'ve never seen the inside of my own mouth because it scares me to death.',
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
-  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
-  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
+  'Rehan Rehan Rehan Rehan rehan rehan Rehan Rehan Rehan Rehan Rehan Rehan Rehan Rehan Rehan Rehan Rehan Rehan Rehan Rehan Rehan',
+  'Aleezah Aleezah Aleezah Aleezah Aleezah Aleezah Aleezah Aleezah Aleezah Aleezah Aleezah Aleezah Aleezah Aleezah Aleezah'
 ]
 
 const LOGOUT_SITES = {
